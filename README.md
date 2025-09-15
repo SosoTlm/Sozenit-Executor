@@ -16,7 +16,7 @@
 - Using FCTB for the scriptbox
 
 # Credits
-- Illiankytb
+- Iliankytb
 - SosoTlm (me)
 - Best Free Cheats (Discord Server)
 - FCTB Creator
