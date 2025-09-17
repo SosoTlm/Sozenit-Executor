@@ -1,1 +1,1 @@
-2.5 PRE-BETA
+2.5.4 PRE-BETA
